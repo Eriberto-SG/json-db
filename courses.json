@@ -1,0 +1,165 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/8c70f310-47b0-40e2-a779-5c3a54f719d9.png",
+            "name": "Copywriting: ¿cómo escribir para vender más?",
+            "description": "Descubre las técnicas comprobadas de escritura persuasiva que usan las agencias de marketing y expertos en publicidad.",
+            "teacher": "Eriberto Santos García",
+            "price": 704
+        },
+        {
+            "id": 2,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/ef0d92b3-74d6-4bec-bc4f-baa18dcf558e.png",
+            "name": "Express desde cero",
+            "description": "Aprende a configurar tu servidor web con el framework más popular de Node.js.",
+            "teacher": "Pablo España",
+            "price": 660
+        },
+        {
+            "id": 3,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/85d3d7e4-19db-4cff-a4cb-cbead813b6b5.png",
+            "name": "Python desde cero",
+            "description": "Aprende los fundamentos de uno de los lenguajes más importantes de la actualidad y crea un administrador de servidor.",
+            "teacher": "Eriberto Santos García",
+            "price": 606
+        },
+        {
+            "id": 4,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/5ffc4c77-cbc3-476d-9c18-e180882a52c9.jpg",
+            "name": "Linux desde cero",
+            "description": "Aprende a utilizar Linux y sus herramientas entendiendo los conceptos que hay detrás del sistema de servidores.",
+            "teacher": "Eriberto Santos García",
+            "price": 670
+        },
+        {
+            "id": 5,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/daa72e4e-c5d0-406e-9f6d-01e646bf719b.png",
+            "name": "CSS desde cero",
+            "description": "Haz hermosa la web con el único lenguaje creado para diseño.",
+            "teacher": "Alvaro Felipe",
+            "price": 750
+        },
+        {
+            "id": 6,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/3ec614b5-a9b7-475c-bf8f-8ba643a129eb.png",
+            "name": "Go desde cero",
+            "description": "Adquiere los conocimientos básicos para iniciar a programar con Go.",
+            "teacher": "Alejandro Rodriguez",
+            "price": 600
+        },
+        {
+            "id": 7,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/fd2adf12-10de-40de-b430-4869c03c8229.png",
+            "name": "Git desde cero",
+            "description": "Aprende el sistema de control de versiones estándar del desarrollo de software.",
+            "teacher": "Beto Quiroga",
+            "price": 450
+        },
+        {
+            "id": 8,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/4e8daacd-2485-4677-80c6-61aae551fe19.png",
+            "name": "Vue.js desde cero",
+            "description": "Vue es un framework progresivo de JavaScript que te da la flexibilidad necesaria para todo tipo de proyectos.",
+            "teacher": "Josh Ospina Tafur",
+            "price": 660
+        },
+        {
+            "id": 9,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/440bf729-4f2b-49a6-a0c7-7cf65a8bd31b.png",
+            "name": "Ruby desde cero",
+            "description": "Aprende el lenguaje sobre el que se fundamenta Ruby on Rails, uno de los frameworks más famosos de la",
+            "teacher": "Héctor Tello",
+            "price": 616
+        },
+        {
+            "id": 10,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/608331fa-c0c6-4f7c-9ad7-470903923179.jpg",
+            "name": "Fundamentos de AWS",
+            "description": "Conviértete en un Arquitecto Cloud dominando el Cloud Provider líder por +10 años consecutivos.",
+            "teacher": "Gerardo Castro",
+            "price": 880
+        },
+        {
+            "id": 11,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/f8016461-72f6-40c9-adba-9186b240748b.png",
+            "name": "Flutter desde cero",
+            "description": "Aprende a desarrollar aplicaciones móviles con el Framework desarrollado...",
+            "teacher": "Alvaro Martinez",
+            "price": 616
+        },
+        {
+            "id": 12,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/83abeac1-e2dc-4e4c-a711-8ae7c20e37ee.jpg",
+            "name": "Next.js",
+            "description": "Reutiliza tus conocimientos en React.js en proyectos que se renderizan del lado...",
+            "teacher": "Beto Quiroga",
+            "price": 660
+        },
+        {
+            "id": 13,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/38c0b392-4eaf-44e1-b7ae-c038acb0b52e.jpg",
+            "name": "SEO Desde Cero",
+            "description": "Aprende a estructurar un sitio web para que Google se enamore de él.",
+            "teacher": "Martin Arzuaga",
+            "price": 770
+        },
+        {
+            "id": 14,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/9e541efb-1c68-4252-ba2c-f57691a743a1.png",
+            "name": "Dart desde cero",
+            "description": "Aprende a programar en el único lenguaje de Google para desarrollo móvil, web y escritorio.",
+            "teacher": "Alvaro Martinez",
+            "price": 968
+        },
+        {
+            "id": 15,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/1c13c67e-6070-471f-a6fe-0c8ce67f0fa3.png",
+            "name": "Introducción al Machine Learning",
+            "description": "Aprende a organizar los datos para entrenar un modelo de Machine Learning supervisado y evaluar su...",
+            "teacher": "Lesly Zerna",
+            "price": 440
+        },
+        {
+            "id": 16,
+            "poster": "",
+            "name": "",
+            "description": "",
+            "teacher": "",
+            "price": 880
+        },
+        {
+            "id": 17,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/65966ad6-7ba4-4362-8f33-53ca344e95ca.png",
+            "name": "Algoritmos en la programación",
+            "description": "Desarrolla el pensamiento lógico y aprende a resolver problemas como un programador.",
+            "teacher": "Carlos Andres",
+            "price": 792
+        },
+        {
+            "id": 18,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/7204fcde-37aa-49a2-a619-63459f834ada.png",
+            "name": "React desde cero (2021)",
+            "description": "Crea interfaces de usuario reutilizables y basadas en componentes con la librería para el desarrollo frontend más.",
+            "teacher": "Beto Quiroga",
+            "price": 506
+        },
+        {
+            "id": 19,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/4b7c3116-f262-4595-b0c6-af29c480057f.png",
+            "name": "Bases de datos SQL desde cero",
+            "description": "Aprende el lenguaje SQL para, diseñar, crear y administrar la información de cualquier motor de base de datos.",
+            "teacher": "Alexys Lozada",
+            "price": 616
+        },
+        {
+            "id": 20,
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/6cbc514c-1e04-4bf4-8beb-fa595f363d9d.png",
+            "name": "Spring desde cero",
+            "description": "Domina los conceptos y funcionalidades básicas del framework más usado en Java y desarrolla...",
+            "teacher": "Lucas Moyano",
+            "price": 264
+        }
+    ]
+}
+
