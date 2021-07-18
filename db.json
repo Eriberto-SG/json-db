@@ -122,11 +122,11 @@
         },
         {
             "id": 16,
-            "poster": "",
-            "name": "",
-            "description": "",
-            "teacher": "",
-            "price": 880
+            "poster": "https://edteam-media.s3.amazonaws.com/courses/medium/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
+            "name": "JavaScript desde cero",
+            "description": "Domina las bases del único lenguaje que te da la oportunidad de trabajar del lado del cliente y del lado del...",
+            "teacher": "Beto Quiroga",
+            "price": 528
         },
         {
             "id": 17,
